@@ -1,0 +1,11 @@
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\bin\Debug\mydb.accdb
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\bin\Debug\Haykal_BetaMart.exe.config
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\bin\Debug\Haykal_BetaMart.exe
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\bin\Debug\Haykal_BetaMart.pdb
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.csproj.AssemblyReference.cache
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.Form1.resources
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.Properties.Resources.resources
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.csproj.GenerateResource.cache
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.csproj.CoreCompileInputs.cache
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.exe
+D:\ukk\Haykal_BetaMart\Haykal_BetaMart\obj\Debug\Haykal_BetaMart.pdb
